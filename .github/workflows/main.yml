@@ -25,9 +25,9 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN_HUGO }}
-          #external_repository: <username>/<username>.github.io
+          external_repository: EmanuelSamir/escomoencasa.github.io
           publish_dir: ./public
-          #   keep_files: true
+          keep_files: true
           user_name: EmanuelSamir
           user_email: emanuel.munoz@utec.edu.pe
           publish_branch: main
