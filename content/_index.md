@@ -1,7 +1,7 @@
 +++
 [banner]
   [[banner.button]]
-      url = "/contact"
+      url = "#CTA"
       text = "Contacto"
       type = "primary"
 
