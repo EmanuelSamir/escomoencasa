@@ -57,7 +57,7 @@ unsafe = true
   bible_version = "CSB" #HCSB, NIV, NLT, ESV, etc.
   instant_page = true
 
-  #customCSS = ["example.css"]
+  customCSS = ["example.css"]
 
   [params.banner]
     image = "img/dummybanner.png"
