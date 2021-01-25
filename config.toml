@@ -1,4 +1,4 @@
-baseURL = "https://emanuelsamir.github.io/escomoencasa.github.io/"
+baseURL = "escomoencasa.ml"
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
