@@ -1,12 +1,12 @@
 +++
 [banner]
   [[banner.button]]
-      url = "/#CTA"
+      url = "./#CTA"
       text = "Contacto"
       type = "primary"
 
   [[banner.button]]
-      url = "/#feature-icons"
+      url = "./#feature-icons"
       text = "Conocenos"
 
 #Details for the box below the banner
