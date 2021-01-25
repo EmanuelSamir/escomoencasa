@@ -1,7 +1,8 @@
-baseURL = "https://example.org/"
+baseURL = "https://emanuelsamir.github.io/escomoencasa.github.io/"
 languageCode = "en-us"
 title = "Alpha Church"
 theme = "alpha-church"
+themesDir = "themes"
 
 rssLimit = 5
 paginate = 4
